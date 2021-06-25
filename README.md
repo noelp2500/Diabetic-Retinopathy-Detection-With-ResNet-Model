@@ -12,3 +12,5 @@ Data Source: https://www.kaggle.com/c/diabetic-retinopathy-detection
 The types of images stored are - NO_DR, MILD, MODERATE, SEVERE, PROLIFERATIVE_DR
 
 I have built a ResNet model to detect the presence of Diabetic Retinopathy in a person's eyes. 
+
+The entire projecct files can be found here - https://drive.google.com/drive/folders/1_VOC-D52h8agBuXgZU7rLG70Df5MTuT3?usp=sharing
